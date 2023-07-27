@@ -1,6 +1,6 @@
 ### Hey, nice to see you <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=blogdan.site&style=for-the-badge&url=https%3A%2F%2Fblogdan.site)](https://www.blogdan.site/)
+### You can find me also on <a rel="me" href="https://mastodon.bogdan.com.de/@bkyuchuk">Mastodon</a> ;)
 
 ## I'm Bogdan, a passionate Software Developer who:
 - :iphone: currently writes mobile and cloud applications.  
