@@ -2,14 +2,13 @@
 
 ## I'm Bogdan - a passionate Software Developer who:
 - :books: currently studies CS in Munich  
-- :hearts: cares about clean code
-- :earth_americas: has the ultimate goal: become a fullstack engineer
+- :hearts: cares about clean code & robust systems
+- :earth_americas: has the ultimate goal: always be better than yesterday
 
-### I try to flex :muscle: with the following languages and tools:
+### I flex :muscle: with the following languages and tools:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
