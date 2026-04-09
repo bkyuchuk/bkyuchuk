@@ -1,7 +1,7 @@
 ### Hey there, nice to see you <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="30px">
 
 ## I'm Bogdan - a passionate Software Developer who:
-- :books: just finished studies CS in Munich  
+- :books: just finished studying M.Sc.CompSci in Munich  
 - :hearts: result-oriented, cares about clean code & robust systems
 - :earth_americas: has the ultimate goal: always be better than yesterday
 
