@@ -1,8 +1,8 @@
 ### Hey there, nice to see you <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="30px">
 
 ## I'm Bogdan - a passionate Software Developer who:
-- :books: currently studies CS in Munich  
-- :hearts: cares about clean code & robust systems
+- :books: just finished studies CS in Munich  
+- :hearts: result-oriented, cares about clean code & robust systems
 - :earth_americas: has the ultimate goal: always be better than yesterday
 
 ### I flex :muscle: with the following languages and tools:
